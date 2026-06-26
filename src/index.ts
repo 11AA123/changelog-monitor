@@ -6,11 +6,15 @@ import { notify } from "./slack.js";
 import { fetchStripe }   from "./scrapers/stripe.js";
 import { fetchFirebase } from "./scrapers/firebase.js";
 import { fetchOpenAI }   from "./scrapers/openai.js";
+import { fetchVercel }   from "./scrapers/vercel.js";
+import { fetchSupabase } from "./scrapers/supabase.js";
 
 const SOURCES: Source[] = [
   { id: "stripe",   name: "Stripe",   emoji: "🔵", fetch: fetchStripe   },
   { id: "firebase", name: "Firebase", emoji: "🔶", fetch: fetchFirebase },
   { id: "openai",   name: "OpenAI",   emoji: "⚫", fetch: fetchOpenAI   },
+  { id: "vercel",   name: "Vercel",   emoji: "◼️", fetch: fetchVercel   },
+  { id: "supabase", name: "Supabase", emoji: "🟢", fetch: fetchSupabase },
 ];
 
 async function runSource(

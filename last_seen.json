@@ -1,1 +1,22 @@
-{}
+{
+  "stripe": {
+    "id": "2026-06-24.dahlia",
+    "date": "2026-06-24"
+  },
+  "firebase": {
+    "id": "firebase@12.15.0",
+    "date": "2026-06-16"
+  },
+  "openai": {
+    "id": "2026-06-24",
+    "date": "2026-06-24"
+  },
+  "vercel": {
+    "id": "2026-06-26:query-web-analytics-from-the-vercel-cli",
+    "date": "2026-06-26"
+  },
+  "supabase": {
+    "id": "47197",
+    "date": "2026-06-22"
+  }
+}
