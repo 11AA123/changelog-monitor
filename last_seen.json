@@ -4,19 +4,19 @@
     "date": "2026-06-24"
   },
   "firebase": {
-    "id": "firebase@12.15.0",
-    "date": "2026-06-16"
+    "id": "firebase@12.16.0",
+    "date": "2026-07-09"
   },
   "openai": {
-    "id": "2026-07-06",
-    "date": "2026-07-06"
+    "id": "2026-07-09",
+    "date": "2026-07-09"
   },
   "vercel": {
-    "id": "2026-07-08:eve-chat-sdk-channel",
-    "date": "2026-07-08"
+    "id": "2026-07-10:traces-now-support-tree-and-waterfall-views",
+    "date": "2026-07-10"
   },
   "supabase": {
-    "id": "47197",
-    "date": "2026-06-22"
+    "id": "47812",
+    "date": "2026-07-10"
   }
 }
