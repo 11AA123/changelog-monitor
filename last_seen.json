@@ -12,7 +12,7 @@
     "date": "2026-07-09"
   },
   "vercel": {
-    "id": "2026-07-14:chat-sdk-adds-x-adapter-support",
+    "id": "2026-07-14:vercel-blob-now-supports-consistent-reads-on-private-storage",
     "date": "2026-07-14"
   },
   "supabase": {
