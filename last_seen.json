@@ -12,8 +12,8 @@
     "date": "2026-07-09"
   },
   "vercel": {
-    "id": "2026-07-15:vercel-connect-support-in-github-tools",
-    "date": "2026-07-15"
+    "id": "2026-07-16:runtime-logs-now-show-cache-reasons",
+    "date": "2026-07-16"
   },
   "supabase": {
     "id": "47812",
