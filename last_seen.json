@@ -12,11 +12,11 @@
     "date": "2026-07-09"
   },
   "vercel": {
-    "id": "2026-07-20:configure-where-run-state-lives-in-vercel-workflows",
-    "date": "2026-07-20"
+    "id": "2026-07-21:python-function-bundles-now-include-precompiled-bytecode",
+    "date": "2026-07-21"
   },
   "supabase": {
-    "id": "48048",
-    "date": "2026-07-17"
+    "id": "48158",
+    "date": "2026-07-21"
   }
 }
