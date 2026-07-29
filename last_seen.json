@@ -8,12 +8,12 @@
     "date": "2026-07-09"
   },
   "openai": {
-    "id": "2026-07-22",
-    "date": "2026-07-22"
+    "id": "2026-07-28",
+    "date": "2026-07-28"
   },
   "vercel": {
-    "id": "2026-07-27:regional-inference-now-available-on-ai-gateway",
-    "date": "2026-07-27"
+    "id": "2026-07-28:vercel-sandbox-supports-forking",
+    "date": "2026-07-28"
   },
   "supabase": {
     "id": "48235",
