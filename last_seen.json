@@ -8,12 +8,12 @@
     "date": "2026-07-09"
   },
   "openai": {
-    "id": "2026-07-28",
-    "date": "2026-07-28"
+    "id": "2026-07-29",
+    "date": "2026-07-29"
   },
   "vercel": {
-    "id": "2026-07-28:vercel-sandbox-supports-forking",
-    "date": "2026-07-28"
+    "id": "2026-07-29:edge-config-is-now-global-config",
+    "date": "2026-07-29"
   },
   "supabase": {
     "id": "48235",
