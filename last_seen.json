@@ -8,12 +8,12 @@
     "date": "2026-08-04"
   },
   "openai": {
-    "id": "2026-08-05",
-    "date": "2026-08-05"
+    "id": "2026-08-07",
+    "date": "2026-08-07"
   },
   "vercel": {
-    "id": "2026-08-08:grok-imagine-image-2-0-preview-now-available-on-vercel-ai-gateway",
-    "date": "2026-08-08"
+    "id": "2026-08-10:vercel-sandbox-managed-images",
+    "date": "2026-08-10"
   },
   "supabase": {
     "id": "48235",
