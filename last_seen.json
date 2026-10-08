@@ -4,12 +4,12 @@
     "date": "2026-09-30"
   },
   "firebase": {
-    "id": "firebase@12.19.0",
-    "date": "2026-09-09"
+    "id": "firebase@13.0.0",
+    "date": "2026-10-07"
   },
   "openai": {
-    "id": "2026-10-06",
-    "date": "2026-10-06"
+    "id": "2026-10-07",
+    "date": "2026-10-07"
   },
   "vercel": {
     "id": "2026-08-13:glm-5-2-free-for-eve-agents-through-august-27-via-blackbox-on-ai-gateway",
